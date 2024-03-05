@@ -1,4 +1,4 @@
-# Drunkup &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)]()
+# Drunkup &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/drinkup/blob/main/LICENSE)
 
 Drinkup is a mobile app created in React Native that is used as a drinks database.
 
